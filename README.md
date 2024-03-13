@@ -1,4 +1,4 @@
-### Fuck You 👋
+### Hi there  👋
 
 <!--
 **ranidu1999/ranidu1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
